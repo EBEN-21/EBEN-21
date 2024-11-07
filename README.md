@@ -10,6 +10,7 @@
 
 ~ 📫 How to reach me:
        > Email: ebenezernwikina@gmail.com
-       > X: https://x.com/EbenNwik48707
+       
+       > X: https://x.com/EbenNwik4870
 <!--
 **EBEN-21/EBEN-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
